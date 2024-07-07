@@ -57,4 +57,7 @@ java -cp DMMPP.jar cn.ac.ios.dmmpp.DMMMain ./android-platforms ./apks/f-Droid/ch
 
 ## Video on YouTube
 
-[DMMPP: Constructing Dummy Main Methods for Android Apps  with Path-sensitive Predicates](https://www.youtube.com/) 
+[DMMPP: Constructing Dummy Main Methods for Android Apps  with Path-sensitive Predicates](https://youtu.be/dLOwRwp1sPo)   
+
+If you can't click to jump to YouTube, copy the link below   
+https://youtu.be/dLOwRwp1sPo 
